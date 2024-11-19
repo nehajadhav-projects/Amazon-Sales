@@ -11,7 +11,7 @@ ________________________________________
 5.	How close are we to achieving our sales target of $1 million?
 6.	What recommendations can improve sales and profitability?
 
-- <a href=" ">View Dataset Used</a>
+- <a href="https://github.com/nehajadhav-projects/Amazon-Sales/blob/main/Amazon%202_Raw.xlsx">View Dataset Used</a>
 ________________________________________
 
 ## Process

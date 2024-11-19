@@ -10,7 +10,10 @@ ________________________________________
 4.	Which states contribute the most and least profit?
 5.	How close are we to achieving our sales target of $1 million?
 6.	What recommendations can improve sales and profitability?
+
+- <a href=" ">View Dataset Used</a>
 ________________________________________
+
 ## Process
 1.	Data Collection: Collected raw data on sales, profit, order dates, and product categories.
 2.	Data Cleaning: Ensured accuracy by removing duplicates and standardizing fields.
@@ -21,7 +24,8 @@ ________________________________________
 -	Geographical Profit: Map chart to display state-level profitability.
 5.	Insights Generation: Analyzed the visualized data to draw key observations.
  	## Dashboard
- 	
+ 	![Screenshot 2024-11-19 140410](https://github.com/user-attachments/assets/1a614cd6-1c24-4dbf-a552-c340bc94df76)
+
 ________________________________________
 ## Insights
 1.	Overall Metrics:

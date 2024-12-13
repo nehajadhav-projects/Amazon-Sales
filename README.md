@@ -2,6 +2,10 @@
 
 ## Description
 The "Amazon Sales Dashboard" is a dynamic Power BI project aimed at analyzing key sales performance metrics to provide actionable insights. This dashboard integrates sales data to help stakeholders understand trends, identify top-performing categories, and evaluate geographical performance. It enables informed decision-making by highlighting areas of success and identifying potential gaps.
+
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiODFjNDhiYTAtNTM4Ni00ODg3LWE4ZTYtMWE0OWE2NGE3MTEyIiwidCI6Ijg5MDI1YjA2LWY2NTItNGM1Mi1hODEzLTgyNGU2YWIyZjVlNiJ9
+">View Live Interactive Dashboard</a>
+
 ________________________________________
 ## Questions Addressed
 1.	What are the total sales, profit, and order count?
